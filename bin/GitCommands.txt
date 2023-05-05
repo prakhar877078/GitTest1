@@ -1,0 +1,17 @@
+This File will Contain the basic git commands
+
+Create a repo at remote
+go to wc directory / path in cmd
+git init
+git remote add origin https://github.com/prakhar877078/GitTest1.git
+git status
+add .gitignore file
+git status
+git add .
+git status
+git commit -m "first commit"
+git push origin master
+enter username : prakhar877078
+enter passcode : token
+check the code at remote side
+code will be visible in master branch at remote
