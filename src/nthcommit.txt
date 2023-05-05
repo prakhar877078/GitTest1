@@ -1,0 +1,9 @@
+//nth commit
+
+add/update/delete any files in your working copy
+git status
+git add filename with path
+git commit -m "reason"
+git push origin master
+check the updated code at remote side
+check the commit history
