@@ -1,0 +1,12 @@
+This .txt file is to see the branching concept of git
+
+git branch : this will show total branch created at local repo
+git checkout branchname : this will point to the respective branch
+
+now create or make changes accordingly on to the branch and add it to respective branch
+
+git add respective filepath to be added : this will add the respective file to the branch
+
+git commit -m "message" : this will commit it to local repo
+
+git push origin branchname : this will push respective branch to remote repo.
