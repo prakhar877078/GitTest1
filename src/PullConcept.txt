@@ -1,0 +1,10 @@
+
+Pull is made on every date basis to make our local repo in sync with the remote repo.
+
+let's suppose there are 3 developers working on three different features
+All three will be have 3 different branches at the end of the day  
+they will merge the branch to master but on their working copy in master 
+branch all the branch file will not be there as the branch has been merged with the remote repo.
+So to make sync our working copy master to remote master we will have to take a pull request.
+
+command : git pull origin master

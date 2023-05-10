@@ -1,0 +1,5 @@
+create a new folder into your system at any location
+navigate to that folder and open cmd
+write command git clone https://github.com/prakhar877078/GitTest1.git
+project folder will be downloaded from git hub repo to local
+open eclipse and click on import -> existing maven project and select file location and proceed
