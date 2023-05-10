@@ -1,0 +1,15 @@
+git log
+
+git log --oneline
+
+git branch:
+this command shows where your current working directory is pointing to?
+
+git branch -vv:
+this command shows what was the last commit that you have made
+
+git branch branchname:
+this command will create a new branch
+
+git checkout branchname:
+this command will switch the working copy to branchname
