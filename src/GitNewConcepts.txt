@@ -1,0 +1,11 @@
+git switch -C AP : this will create a new branch AP and switch to it.
+
+git branch -d lp : to delete lp branch.
+
+git push -d origin branchname : this will delete the branch from the remote side.
+
+git tag v1.0 : this will give tag name
+
+git tag -d v1.0 : this will delete tag v1.0 only from local
+
+ git tag : will show the number of tags
