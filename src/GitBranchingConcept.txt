@@ -10,3 +10,5 @@ git add respective filepath to be added : this will add the respective file to t
 git commit -m "message" : this will commit it to local repo
 
 git push origin branchname : this will push respective branch to remote repo.
+
+Adding comment as asked by the reviewer.
